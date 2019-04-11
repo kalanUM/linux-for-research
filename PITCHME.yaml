@@ -1,0 +1,5 @@
+theme : simple
+theme-override : PITCHME.css
+#layout : center-left
+#vertical-center : false
+footnote : "© 2018 Something Something Footnote"

@@ -1,0 +1,74 @@
+/******************************************
+ * modified theme overrides - kcd 2018-03
+ * 
+ * remove header all-caps transforms 
+ * add formatting to inline code 
+ * remove image borders (simple theme uses img & img.plain)
+ * 
+ ******************************************/
+
+
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is darkblue.
+ *
+ * This theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
+ * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+
+
+
+/*********************************************
+ * GLOBAL STYLES -- slide backgrounds
+ *********************************************/
+body {
+  background: ivory;
+  background-color: ivory; }
+
+
+/*********************************************
+ * HEADERS -- remove uppercase transform 
+ *********************************************/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none; }
+  
+
+/*********************************************
+ * OTHER -- format inline code, set pre code to darker 
+ *********************************************/
+.reveal code {
+  background: rgba(0,0,0,0.2);
+  font-size: .8em;
+  padding-right: .2em;
+  padding-left: .2em;
+  text-transform: none; }
+
+.reveal pre code {
+  background: rgba(0,0,0,0.6);}
+
+
+/*********************************************
+ * QUOTES
+ *********************************************/
+.reveal blockquote {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15em; }
+
+
+
+/*********************************************
+ * Image Borders
+ *********************************************/
+.reveal section img {
+  border: none;
+  box-shadow: none;
+}
+

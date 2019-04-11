@@ -1,0 +1,10 @@
+  83423 BRFSS
+  73621 NVSS
+   1404 CMS Part A Claims Data
+   1107 State Emergency Department Data
+    220 PRAMS
+    165 APIS
+    110 YRBSS
+    110 Legal Research
+     55 AEDS
+     52 "Birth Certificate, NVSS"

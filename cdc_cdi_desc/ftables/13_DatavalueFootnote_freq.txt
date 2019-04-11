@@ -1,0 +1,11 @@
+  56775 
+  47736  
+  25803 Sample size of denominator and/or age group for age-standardization is less than 50 or relative standard error is more than 30%
+  21333 Data not shown because of too few respondents or cases
+   7967 No data available
+    498 50 States + DC: US Median
+     86 US Median based on the number of participating states and/or excluding states with sample size below 50 or relative standard error above 30%
+     37 Estimate is 0.0% because no cases were reported with this condition
+     30 "State directly controlled the sale of (beer/wine/distilled spirits) at the retail and/or wholesale levels. State prices for (beer/wine/distilled spirits) combined both markups and taxes, so tax rates for this beverage type could not be determined."
+      1 "Per capita alcohol consumption was calculated using (1) alcohol beverage sales data, either collected directly from states or provided by beverage industry sources (numerator); and (2) population data from the U.S. Census Breau (denominator)."
+      1 DC was not rated for this measure because the measure addresses state versus local authority and does not apply to the District of Columbia

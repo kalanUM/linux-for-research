@@ -1,0 +1,10 @@
+  22171 Overall
+  19790 "White, non-Hispanic"
+  19790 Hispanic
+  19790 "Black, non-Hispanic"
+  19573 Male
+  19573 Female
+  10574 "Other, non-Hispanic"
+  10574 "Multiracial, non-Hispanic"
+   9216 Asian or Pacific Islander
+   9216 American Indian or Alaska Native

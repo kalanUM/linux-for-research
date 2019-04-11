@@ -1,0 +1,10 @@
+  40224 Cardiovascular Disease
+  33257 Diabetes
+  27126 Chronic Obstructive Pulmonary Disease
+  16592 Asthma
+  14890 Alcohol
+  12510 Arthritis
+   7875 Chronic Kidney Disease
+   4120 Cancer
+   2445 Mental Health
+   1228 Immunization

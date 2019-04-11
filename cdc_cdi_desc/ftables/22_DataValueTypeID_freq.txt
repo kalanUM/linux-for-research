@@ -1,0 +1,12 @@
+  41709 CrdPrev
+  36824 AgeAdjPrev
+  25378 Nmbr
+  25377 CrdRate
+  25377 AgeAdjRate
+   2610 Mean
+   2610 AgeAdjMean
+    165 USD
+     55 PerCapAlc
+     55 LclCntrlAlc
+     55 CommHstLiab
+     52 Prev

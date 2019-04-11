@@ -1,0 +1,12 @@
+  41709 Crude Prevalence
+  36824 Age-adjusted Prevalence
+  25378 Number
+  25377 Crude Rate
+  25377 Age-adjusted Rate
+   2610 Mean
+   2610 Age-adjusted Mean
+    165 US Dollars
+     55 Per capita alcohol consumption
+     55 Local control of the regulation of alcohol outlet density
+     55 Commercial host (dram shop) liability status for alcohol service
+     52 Prevalence
